@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv sh
+
+crontab -l
+cron -f
